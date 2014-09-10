@@ -2,7 +2,7 @@
 
 Okay, we're asking for a lot here, but we need someone with experience in graphic design and web/mobile design and development.
 
-Object.NET is a growing team dedicated to building tools, frameworks, and online services for .NET and JavaScript developers.
+Object.NET is a growing team dedicated to building tools, frameworks, and online services for .NET and JavaScript developers. ![Object.NET](https://avatars0.githubusercontent.com/u/6957785?v=2&s=200)
 
 We're looking for a dedicated Lead Creative + HTML/CSS Build person. You can be anywhere, and your schedule can be flexible. We're focused on craftsmanship and customer service, not punching the clock.
 
@@ -39,11 +39,11 @@ We're looking for a dedicated Lead Creative + HTML/CSS Build person. You can be 
 
 Our website(s) and just about everything else needs an overhaul. Several new products launching soon, each with it's own website. Plenty more marketing and internal projects after new website launch. 
 
-### Soon to (re)launch:
+### Soon to launch or relaunch:
 
-	- http://object.net
-	- http://bridge.net
-	- http://ext.net
+- http://object.net
+- http://bridge.net
+- http://ext.net
 
 Please contact us at hello@object.net. We'd love to chat.
 
